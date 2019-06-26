@@ -1,8 +1,8 @@
 {
   "name": "meteo-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
-  "main": "./dist/meteo.common.js",
+  "main": "./dist/meteo.umd.min.js",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
